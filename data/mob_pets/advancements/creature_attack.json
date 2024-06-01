@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:diamond_sword"
+    },
+    "title": {
+      "translate": "advancements.creature_attack.title"
+    },
+    "description": {
+      "translate": "advancements.creature_attack.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "creature_attack": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "mob_pets:monsters_master"
+}

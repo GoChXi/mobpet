@@ -1,0 +1,20 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "mob_pets:item/mobcontainer"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "mob_pets:mob_container_hasmob": 1
+      },
+      "model": "mob_pets:item/mob_container_0"
+    },
+    {
+      "predicate": {
+        "mob_pets:mob_container_nomob": 1
+      },
+      "model": "mob_pets:item/mob_container_1"
+    }
+  ]
+}

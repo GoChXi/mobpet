@@ -1,0 +1,9 @@
+{
+  "parent": "mob_pets:custom/altars",
+  "textures": {
+    "all": "mob_pets:block/echoaltar",
+    "particle": "mob_pets:block/echoaltar",
+    "3": "mob_pets:block/echoaltar"
+  },
+  "render_type": "cutout"
+}

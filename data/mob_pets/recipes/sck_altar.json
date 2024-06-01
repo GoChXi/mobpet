@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "mob_pets:life_altar"
+    },
+    "3": {
+      "item": "minecraft:sculk_sensor"
+    },
+    "4": {
+      "item": "mob_pets:magic_altar"
+    },
+    "5": {
+      "item": "minecraft:sculk_sensor"
+    },
+    "6": {
+      "item": "minecraft:sculk_catalyst"
+    },
+    "7": {
+      "item": "minecraft:sculk_shrieker"
+    },
+    "8": {
+      "item": "minecraft:sculk_catalyst"
+    }
+  },
+  "result": {
+    "item": "mob_pets:echo_altar",
+    "count": 1
+  }
+}

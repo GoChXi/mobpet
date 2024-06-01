@@ -1,0 +1,9 @@
+{
+  "parent": "mob_pets:custom/altarsb",
+  "textures": {
+    "all": "mob_pets:block/magialtar",
+    "particle": "mob_pets:block/magialtar",
+    "3": "mob_pets:block/magialtar"
+  },
+  "render_type": "cutout"
+}

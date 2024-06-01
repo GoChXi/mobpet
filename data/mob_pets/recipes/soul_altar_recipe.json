@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:soul_sand"
+    },
+    "3": {
+      "item": "minecraft:nether_bricks"
+    },
+    "4": {
+      "item": "minecraft:nether_star"
+    },
+    "5": {
+      "item": "minecraft:nether_bricks"
+    },
+    "6": {
+      "item": "minecraft:blackstone"
+    },
+    "7": {
+      "item": "minecraft:blackstone"
+    },
+    "8": {
+      "item": "minecraft:blackstone"
+    }
+  },
+  "result": {
+    "item": "mob_pets:soul_altar",
+    "count": 1
+  }
+}

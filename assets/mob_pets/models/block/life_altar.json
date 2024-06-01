@@ -1,0 +1,9 @@
+{
+  "parent": "mob_pets:custom/altarsc",
+  "textures": {
+    "all": "mob_pets:block/lifealtar",
+    "particle": "mob_pets:block/lifealtar",
+    "3": "mob_pets:block/lifealtar"
+  },
+  "render_type": "cutout"
+}

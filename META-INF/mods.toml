@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="mob_pets"
+version="1.1.8"
+displayName="Mob Pets"
+credits="Jin1358, Pillager"
+displayURL="https://space.bilibili.com/2143774956"
+authors="CleMinecraft666"
+
+[[dependencies.mob_pets]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

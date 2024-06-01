@@ -1,0 +1,9 @@
+{
+  "parent": "mob_pets:custom/altar_of_soul",
+  "textures": {
+    "all": "mob_pets:block/soulaltar",
+    "particle": "mob_pets:block/soulaltar",
+    "0": "mob_pets:block/soulaltar"
+  },
+  "render_type": "solid"
+}

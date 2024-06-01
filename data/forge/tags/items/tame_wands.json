@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "mob_pets:stone_tame_wand",
+    "mob_pets:golden_tame_wand",
+    "mob_pets:diamond_tame_wand",
+    "mob_pets:netherite_tame_wand",
+    "mob_pets:wood_tame_wand",
+    "mob_pets:iron_tame_wand"
+  ]
+}

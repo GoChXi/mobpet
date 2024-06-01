@@ -1,0 +1,23 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "mob_pets:diamond_tame_wand"
+    },
+    "title": {
+      "translate": "advancements.mob_pets_root.title"
+    },
+    "description": {
+      "translate": "advancements.mob_pets_root.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "mob_pets_root": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
